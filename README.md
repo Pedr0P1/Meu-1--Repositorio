@@ -6,3 +6,5 @@ Criado em um curso de Git e GitHub
 Adicionei esta linha no GitHub
 
 Aprendo sobre codigos de Git/GitHub para usar no Visual Studio
+
+Curso não esta passando nada
